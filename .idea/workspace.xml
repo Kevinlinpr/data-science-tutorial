@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be50ff98-e0ec-41d3-857c-407260210934" name="Default" comment="translate the data description">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssignmentOne/houseData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/avenger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/avenger.iml" afterDir="false" />
+    <list default="true" id="be50ff98-e0ec-41d3-857c-407260210934" name="Default" comment="init program">
+      <change afterPath="$PROJECT_DIR$/Assignment/Question1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/Question2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment/play.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/GrLivAreaToSalePrice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/Requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/chart1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/correlation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssignmentOne/question1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AssignmentOne/house-data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssignmentOne/data/housing_data_description.txt" beforeDir="false" afterPath="$PROJECT_DIR$/AssignmentOne/data/housing_data_description.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,52 +48,72 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week04/handing-aggregating.py">
+        <entry file="file://$PROJECT_DIR$/AssignmentOne/Filter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week04/api.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="89" />
               <folding>
-                <element signature="e#0#20#0" expanded="true" />
+                <element signature="e#0#44#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week05/try-database.py">
+        <entry file="file://$PROJECT_DIR$/AssignmentOne/chart1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="465">
+              <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment/Question3.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment/Question1.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment/housing_data_description.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="464" column="53" lean-forward="true" selection-start-line="464" selection-start-column="53" selection-end-line="464" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assignment/play.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssignmentOne/correlation.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AssignmentOne/houseData.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#14#0" expanded="true" />
-              </folding>
+              <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="66" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AssignmentOne/GrLivAreaToSalePrice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="75">
+              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -95,19 +122,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AssignmentOne/data/housing_data_description.txt">
+        <entry file="file://$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week04/chart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="75">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
               </folding>
@@ -121,8 +139,17 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>size</find>
+      <find>basement</find>
+      <find>age</find>
+      <find>Exter</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -140,13 +167,24 @@
         <option value="$PROJECT_DIR$/week04/api.py" />
         <option value="$PROJECT_DIR$/week04/chart.py" />
         <option value="$PROJECT_DIR$/week05/try-database.py" />
-        <option value="$PROJECT_DIR$/AssignmentOne/data/housing_data_description.txt" />
         <option value="$PROJECT_DIR$/AssignmentOne/src/house-data.py" />
         <option value="$PROJECT_DIR$/AssignmentOne/src/MS_Zoning-SalePrice.py" />
         <option value="$PROJECT_DIR$/AssignmentOne/house-data.py" />
         <option value="$PROJECT_DIR$/AssignmentOne/MS_Zoning-SalePrice.py" />
         <option value="$PROJECT_DIR$/AssignmentOne/houseData.py" />
         <option value="$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py" />
+        <option value="$PROJECT_DIR$/AssignmentOne/GrLivAreaToSalePrice.py" />
+        <option value="$PROJECT_DIR$/AssignmentOne/NormalConditions.py" />
+        <option value="$PROJECT_DIR$/AssignmentOne/data/housing_data_description.txt" />
+        <option value="$PROJECT_DIR$/AssignmentOne/Filter.py" />
+        <option value="$PROJECT_DIR$/AssignmentOne/chart1.py" />
+        <option value="$PROJECT_DIR$/AssignmentOne/correlation.py" />
+        <option value="$PROJECT_DIR$/AssignmentOne/question1.ipynb" />
+        <option value="$PROJECT_DIR$/AssignmentOne/Requirements.py" />
+        <option value="$PROJECT_DIR$/Assignment/Question2.ipynb" />
+        <option value="$PROJECT_DIR$/Assignment/Question3.ipynb" />
+        <option value="$PROJECT_DIR$/Assignment/play.py" />
+        <option value="$PROJECT_DIR$/Assignment/play.ipynb" />
       </list>
     </option>
   </component>
@@ -171,6 +209,11 @@
             <path>
               <item name="avenger" type="b2602c69:ProjectViewProjectNode" />
               <item name="avenger" type="462c0819:PsiDirectoryNode" />
+              <item name="Assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="avenger" type="b2602c69:ProjectViewProjectNode" />
+              <item name="avenger" type="462c0819:PsiDirectoryNode" />
               <item name="AssignmentOne" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -178,11 +221,6 @@
               <item name="avenger" type="462c0819:PsiDirectoryNode" />
               <item name="AssignmentOne" type="462c0819:PsiDirectoryNode" />
               <item name="data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="avenger" type="b2602c69:ProjectViewProjectNode" />
-              <item name="avenger" type="462c0819:PsiDirectoryNode" />
-              <item name="week04" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,7 +236,7 @@
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -222,7 +260,51 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MSZoningToSalePrice">
+  <component name="RunManager" selected="Python.Filter">
+    <configuration name="Filter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="avenger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AssignmentOne" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AssignmentOne/Filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GrLivAreaToSalePrice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="avenger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AssignmentOne" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AssignmentOne/GrLivAreaToSalePrice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MSZoningToSalePrice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="avenger" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -260,28 +342,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week04/chart.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="avenger" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week04/handing-aggregating.py" />
-      <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -289,7 +349,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="house-data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="chart1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="avenger" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,29 +362,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AssignmentOne/houseData.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="try-database" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="avenger" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week05/try-database.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AssignmentOne/chart1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -334,19 +372,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.hello" />
-      <item itemvalue="Python.chart" />
-      <item itemvalue="Python.try-database" />
-      <item itemvalue="Python.house-data" />
       <item itemvalue="Python.MSZoningToSalePrice" />
+      <item itemvalue="Python.GrLivAreaToSalePrice" />
+      <item itemvalue="Python.Filter" />
+      <item itemvalue="Python.chart1" />
+      <item itemvalue="Python.chart" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MSZoningToSalePrice" />
-        <item itemvalue="Python.house-data" />
-        <item itemvalue="Python.hello" />
-        <item itemvalue="Python.try-database" />
+        <item itemvalue="Python.Filter" />
+        <item itemvalue="Python.chart1" />
         <item itemvalue="Python.chart" />
+        <item itemvalue="Python.GrLivAreaToSalePrice" />
+        <item itemvalue="Python.MSZoningToSalePrice" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +399,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554631681031</updated>
       <workItem from="1555161193449" duration="519000" />
-      <workItem from="1555161867846" duration="9942000" />
+      <workItem from="1555161867846" duration="46262000" />
     </task>
     <task id="LOCAL-00001" summary="translate the data description">
       <created>1555181672716</created>
@@ -370,38 +408,46 @@
       <option name="project" value="LOCAL" />
       <updated>1555181672716</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init program">
+      <created>1555186556793</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555186556796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10461000" />
+    <option name="totallyTimeSpent" value="46781000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2811159" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14806867" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Jupyter" sideWeight="0.61731046" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7167382" visible="true" weight="0.48192772" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7145923" visible="true" weight="0.38433734" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.2832618" side_tool="true" visible="true" weight="0.48192772" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.28540772" side_tool="true" visible="true" weight="0.38433734" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="11" sideWeight="0.49722221" weight="0.32941177" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.3298611" />
-      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.5023256" side_tool="true" visible="true" weight="0.050786838" />
-      <window_info anchor="right" id="Database" order="5" sideWeight="0.4976744" visible="true" weight="0.050786838" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.79533213" weight="0.2846924" />
+      <window_info anchor="right" x="0" y="0" width="310" height="700" id="Documentation" order="4" sideWeight="0.5068493" side_tool="true" visible="true" weight="0.14735337" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.49315068" visible="true" weight="0.14735337" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,32 +455,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="translate the data description" />
-    <option name="LAST_COMMIT_MESSAGE" value="translate the data description" />
+    <MESSAGE value="init program" />
+    <option name="LAST_COMMIT_MESSAGE" value="init program" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/avenger$house_data.coverage" NAME="house-data Coverage Results" MODIFIED="1555186505242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AssignmentOne" />
-    <SUITE FILE_PATH="coverage/avenger$MSZoningToSalePrice.coverage" NAME="MSZoningToSalePrice Coverage Results" MODIFIED="1555186519881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AssignmentOne" />
+    <SUITE FILE_PATH="coverage/avenger$chart1.coverage" NAME="chart1 Coverage Results" MODIFIED="1555236356629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AssignmentOne" />
+    <SUITE FILE_PATH="coverage/avenger$MSZoningToSalePrice.coverage" NAME="MSZoningToSalePrice Coverage Results" MODIFIED="1555214970530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AssignmentOne" />
+    <SUITE FILE_PATH="coverage/avenger$Filter.coverage" NAME="Filter Coverage Results" MODIFIED="1555245916371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AssignmentOne" />
     <SUITE FILE_PATH="coverage/avenger$try_database.coverage" NAME="try-database Coverage Results" MODIFIED="1555168211912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week05" />
+    <SUITE FILE_PATH="coverage/avenger$GrLivAreaToSalePrice.coverage" NAME="GrLivAreaToSalePrice Coverage Results" MODIFIED="1555214984346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/AssignmentOne" />
     <SUITE FILE_PATH="coverage/avenger$hello.coverage" NAME="hello Coverage Results" MODIFIED="1555182830503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/avenger$chart.coverage" NAME="chart Coverage Results" MODIFIED="1555232819243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week04" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week05/try-database.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week04/chart.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week04/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="332">
@@ -445,37 +479,125 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week05/try-database.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/week04/handing-aggregating.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
+        <state relative-caret-position="296">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/week04/chart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Jupyter/runtime/nbserver-4757-open.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Question1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/AssignmentOne/data/housing_data_description.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="9" />
+        <state relative-caret-position="308">
+          <caret line="532" column="99" selection-start-line="532" selection-start-column="96" selection-end-line="532" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Question2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/Requirements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="33" selection-start-line="33" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/question1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="47" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/AssignmentOne/houseData.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/GrLivAreaToSalePrice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
           <folding>
-            <element signature="e#0#14#0" expanded="true" />
+            <element signature="e#0#19#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AssignmentOne/MSZoningToSalePrice.py">
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/Filter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="89" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#0#44#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/correlation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AssignmentOne/chart1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="24" selection-start-line="31" selection-start-column="24" selection-end-line="31" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/play.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Question1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/Question3.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/play.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment/housing_data_description.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="464" column="53" lean-forward="true" selection-start-line="464" selection-start-column="53" selection-end-line="464" selection-end-column="53" />
         </state>
       </provider>
     </entry>
